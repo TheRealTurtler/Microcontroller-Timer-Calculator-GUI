@@ -35,6 +35,8 @@ private:
 
     bool calculated = false;
 
+    int timerBits = 0;
+
     int OCRnA = 0;
     bool CSn0 = false;
     bool CSn1 = false;
